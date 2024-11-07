@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/17662618/README.md)[# Bike Sales Revenue  Analysis with SQL and Power BI
+# Bike Sales Revenue  Analysis with SQL and Power BI
 
 
 ![Screenshot](https://github.com/PKPrasantaBehera/Bike-Sales-Revenue-Dashboard/blob/54893ce98cb9f2c54479eff322a8bba286c0b2b2/image.png)
@@ -17,4 +17,4 @@ To make the consolidated data more accessible and visually appealing, a dashboar
 The dashboard included various visual elements such as charts, graphs, and tables that represented key metrics, trends, and patterns in the data. Users could interact with the dashboard, filtering data based on specific criteria or drilling down into specific details. This interactivity enhanced the ability to explore and uncover meaningful insights from the consolidated data.
 
 Overall, the project successfully utilized SSMS to combine different tables into a consolidated table, simplifying data visualization and analysis. The resulting dashboard built with Power BI provided users with a user-friendly and interactive interface to explore and derive insights from the consolidated data, enabling better decision-making and data-driven strategies.
-Uploading README.md…]()
+
