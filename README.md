@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/17662618/README.md)[# Bike Sales Revenue  Analysis with SQL and Power BI
+(https://github.com/user-attachments/files/17662618/README.md)[# Bike Sales Revenue  Analysis with SQL and Power BI
 
 
 ![Screenshot](https://github.com/PKPrasantaBehera/Bike-Sales-Revenue-Dashboard/blob/54893ce98cb9f2c54479eff322a8bba286c0b2b2/image.png)
